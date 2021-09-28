@@ -1,6 +1,5 @@
 # Server Side Routing Module Project
 
-test
 
 ## Introduction
 
